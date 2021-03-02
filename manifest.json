@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "WaniKaniKeebi",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Auto-expand WaniKani's Item Info pane when you submit an answer during reviews, because using a mouse is the worst.",
   "icons": {
     "48": "icons/wkk-48.png"
